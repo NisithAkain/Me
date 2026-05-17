@@ -1,0 +1,7 @@
+# label = ttk.Label(master=window, text = 'hello')
+# text = ttk.Text(master = window,)
+# Button = ttk.Button(master=window, text ='clickme', command=button_func)
+# check = ttk.Checkbutton(master =window, text='checkme', command = check_func, onvalue = 1, offvalue=0 )
+# radio1 = ttk.Radiobutton(master=window, text = 'radio1', value= 'A1', variable = radio_var, command = lambda:print(radio_var.get()))
+# entry = ttk.Entry(master=window)
+# Frame = ttk.Frame(master=window)
